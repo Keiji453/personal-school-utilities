@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-# Based on code from: https://gist.github.com/jb0hn/760447d7737555793efe48fb4192802c
-
-# Example usage:
-#     python3 rotatepdf.py "pdf to rotate.pdf"
-
 import PyPDF2
 import sys
 import re
