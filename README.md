@@ -1,2 +1,2 @@
 # personal-school-utilities
-Some useful utilities for school
+Just a collection of useful utilities I found for school documents etc.
